@@ -1,4 +1,5 @@
-#SOBEL EDGE DETECTOR
+# Multi-Doc-Chatbot
+
 Overview:
 This project implements a Sobel edge detection processor on an FPGA using Verilog hardware description language (HDL). Sobel edge detection is a popular technique in image processing for detecting edges in images by applying convolution operations with specific kernels.
 
