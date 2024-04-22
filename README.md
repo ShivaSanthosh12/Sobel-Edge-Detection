@@ -34,3 +34,4 @@ Functionality:
   The 'conv' module convolves the incoming pixel data with Sobel kernels to compute edge gradients.
   Edge detection results are thresholded to generate binary edge maps.
   Line buffers are employed for efficient pixel data storage and retrieval during convolution operations.
+
